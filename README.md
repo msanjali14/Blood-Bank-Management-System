@@ -7,6 +7,7 @@ The Blood Bank Management System is an advanced web-based application developed 
 The primary objectives of this system are:
 
 **Efficiency:** Streamline the processes involved in blood donation, storage, and distribution.
+
 **Accuracy:** Maintain accurate records of donors, blood inventory, and donation events.
 **Accessibility:** Provide a user-friendly interface that can be accessed by various stakeholders, including administrators, staff, and donors.
 
